@@ -89,7 +89,7 @@ section.home {
   cursor: pointer;
 }
 
-.toogle.active {
+.toggle.active {
   background: var(--primary-color) url(../images/close.png);
   background-size: 25px;
   background-position: center;
